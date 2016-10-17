@@ -8,3 +8,20 @@ html {
 *, *::before, *::after {
   box-sizing: inherit;
 }
+
+h1 {
+  font-size: 3em;
+}
+
+li {
+  font-size: 1.875em;
+}
+
+h2 {
+  font-size: 1.125em;
+}
+
+p, li {
+  font-size: 0.75em;
+  font-family: Georgia, sans-serif;
+}
