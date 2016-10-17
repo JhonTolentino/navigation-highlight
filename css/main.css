@@ -13,6 +13,10 @@ h1 {
   font-size: 3em;
 }
 
+h1, h2 {
+  color: #b20953;
+}
+
 li {
   font-size: 1.875em;
 }
@@ -24,4 +28,9 @@ h2 {
 p, li {
   font-size: 0.75em;
   font-family: Georgia, sans-serif;
+}
+
+.current {
+  background-color: #b20953;
+  color: #fff;
 }
