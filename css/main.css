@@ -30,6 +30,16 @@ p, li {
   font-family: Georgia, sans-serif;
 }
 
+.btn {
+  display: inline-block;
+  padding: 0.2em 0.5em 0.3em;
+  background-color: #2f2d13;
+  border-radius: 8px;
+  border: 0;
+  color: #fff;
+  text-decoration: none;
+}
+
 .current {
   background-color: #b20953;
   color: #fff;
